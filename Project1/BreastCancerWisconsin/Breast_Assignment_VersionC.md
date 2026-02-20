@@ -572,7 +572,7 @@ Your answer:
 **4. Why might severely irregular cell boundaries be associated with malignancy? (Think about how cancer cells grow and divide.)**
 
 Your answer:
-    As the cells grow they rapidly change and deform.
+    As the cells grow they rapidly and uncontrollably divide, change, and deform.
 ---
 
 ## Part 5: Research Questions (15 points)
